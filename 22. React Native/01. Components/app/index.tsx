@@ -8,8 +8,6 @@ const Index = () => {
       <ComponentA />
     </Text>
   );
-
-  
 };
 
 export default Index;
