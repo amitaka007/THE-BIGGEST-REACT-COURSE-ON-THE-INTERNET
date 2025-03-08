@@ -7,6 +7,8 @@ const Index = () => {
       Hello
       <ComponentA />
     </Text>
+
+    
   );
 };
 
