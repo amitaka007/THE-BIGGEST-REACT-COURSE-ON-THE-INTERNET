@@ -8,7 +8,6 @@ const Index = () => {
       <ComponentA />
     </Text>
 
-    
   );
 };
 
